@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpawnQueue",
+	"Description": "Dedicated server spawn queue system.",
+	"Category": "TwoPieces",
+	"CreatedBy": "Two Pieces",
+	"CreatedByURL": "",
+	"DocsURL": "twopieces.levelparadox.com/",
+	"MarketplaceURL": "",
+	"SupportURL": "tpiecescontact@gmail.com",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SpawnQueue",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux"
+			]
+		}
+	]
+}
