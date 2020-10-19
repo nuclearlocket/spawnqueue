@@ -3,7 +3,7 @@ Unreal Engine 4 Multiplayer Spawn Queue system for Dedicated Server
 
 Spawn Queue system with everything needed to run Deathmatch on Dedicated Server. Spawn Players into the world at specific location according to their team and spawn group. Drop CustomPlayerStart in your level to define spawn locations and create Game Mode from the features of this plugin.
 
-This plugin is designed for a multiplayer game and most features are designed to be in Game Mode. Major features are independent, server join queue requires players to be registered to acquire privilege levels. This means that you can use what you need or migrate it into your project piece by piece. You can also use Demo Project as your starting layout.
+This plugin is designed for a multiplayer game and most features are designed to be in Game Mode. Major features are independent, server join queue requires players to be registered to acquire privilege levels. This means that you can use what you need or migrate it into your project piece by piece.
 
 Features:
 
